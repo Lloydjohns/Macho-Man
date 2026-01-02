@@ -1,9 +1,8 @@
 # MachoMan 💪
 **Premium Fitness & Gym Website**
 
-[![Website](https://img.shields.io/badge/Website-Live-blue)](https://yourwebsite.com)
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
-[![Last Commit](https://img.shields.io/github/last-commit/your-username/machoman)](https://github.com/your-username/machoman)
+[![Website](https://img.shields.io/badge/Website-Live-blue)](https://vercel.com/lloydjohns-projects/macho-man/3SdxbiTEFi9bMtd7k9AQVkXMDS2C)
+[![Last Commit](https://img.shields.io/github/last-commit/your-username/machoman)](https://github.com/Lloydjohns/Macho-Man)
 
 ---
 
